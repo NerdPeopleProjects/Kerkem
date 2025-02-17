@@ -1,4 +1,4 @@
-# Barbershop Management System
+# Kerkem - Barbershop Management System
 
 A modern platform designed for barbershops to streamline their operations. From managing appointments and portfolios to selling products and handling payments, this system makes it easier for barbershops to thrive.
 
@@ -31,4 +31,4 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/barbershop-management-system.git
+   git clone https://github.com/NerdPeopleProjects/Kerkem.git
