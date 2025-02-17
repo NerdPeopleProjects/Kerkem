@@ -1,4 +1,4 @@
-# Kerkem - Barbershop Management System
+# Kerkem (ከርክም) - Barbershop Management System
 
 A modern platform designed for barbershops to streamline their operations. From managing appointments and portfolios to selling products and handling payments, this system makes it easier for barbershops to thrive.
 
